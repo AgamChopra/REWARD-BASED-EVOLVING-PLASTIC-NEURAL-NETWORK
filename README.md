@@ -1,1 +1,1 @@
-# Reward Based Evolving Plastic Neural Network Cluster
+# Reward Based Evolution on Plastic Neural Network Clusters
