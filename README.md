@@ -1,1 +1,1 @@
-# REWARD-BASED-EVOLVING-PLASTIC-NEURAL-NETWORK
+# Reward Based Evolving Plastic Neural Network Cluster
